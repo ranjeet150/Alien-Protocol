@@ -6,3 +6,5 @@ target
 **/__snapshots__/
 *.snap
 *.snapshot
+config.bat
+node_modules
