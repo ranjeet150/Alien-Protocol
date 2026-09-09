@@ -6,3 +6,6 @@ target
 **/__snapshots__/
 *.snap
 *.snapshot
+.cursor/
+config.bat
+node_modules
